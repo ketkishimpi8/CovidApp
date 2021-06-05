@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">CovidApp</string>
+    <string name="str1">COVID-19 SYMPTOM CHECKER</string>
+    <string name="btr1">TAKE A TEST</string>
+    <string name="link"><a href="https://www.worldometers.info/coronavirus/country/india/"> Click Here For Updates </a> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="selectedoption">Selected Option</string>
+    <string name="correctanswer">Correct Answer</string>
+    <string name="progressbar">Progress Bar</string>
+    <string name="scoreque">SCORE 0/10 </string>
+    <string name="news">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+        Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+        The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.
+        You can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth.</string>
+    <string name="str3"><b>WEARING IS CARING:</b> <br>
+        Wearing masks is an extremely important habit that everyone of us should be applying since this simple step could significantly reduce the risk of transmission.
+			Wear mask whenever you are in a public place. One major benefit of wearing face mask is to protect the people around you specially if you have been exposed to someone carrying the Corono virus or work in a crowded place </br>
+    </string>
+
+    <string name="str4"><b> HEALTHY DIET:</b> <br>
+             An eating plan that helps manage your weight includes a variety of healthy foods.
+			Add an array of colors to your plate and think of it as eating the rainbow. </br></string>
+    <string name="str6"><b>PHYSICAL FITNESS:</b> <br>
+    </br>A person who is fit is capable of living life to its fullest extent.
+    Make sure that you spend more time outdoors in the sun, and fresh air and take part in more healthy activities</string>
+    <string name="str7"> <b> BOOST YOUR IMMUNITY: </b> <br>
+    </br>In the younger generation with no underly
+ ing illnesses, Covid 19 can result in a minor infection, provided you have a robust immunity and do not engage in activities like smoking or vaping
+ to combat the onslaught of the virus. Intake of suitable products that can boost up your immune system can be of great help.</string>
+    <string name="str8"><b> SANITIZE YOURSELF: </b> <br>
+    </br>Sanitizing reduces the growth of viruses, fungi, and types of harmful bacteria.
+			You can clean every day, but you should always sanitize and also disinfect to keep your home or workplace safe.
+			A product that sanitizes effectively greatly reduces all bacteria, not just a specific type. </string>
+    <string name="str9"><b> SOCIAL DISTANCING: </b> <br>
+            </br> COVID-19 spreads mainly among people who are in close contact (within about 6 feet)
+			for a prolonged period. Spread happens when an infected person coughs, sneezes, or talks, and droplets from their mouth or nose are
+			launched into the air and land in the mouths or noses of people nearby.</string>
+    <string name="str5"><b>TRAVEL WITH CAUTION: </b> <br>
+    </br>  If you travel, take steps to protect yourself and others from COVID-19:
+        Avoid close contact by staying at least 6 feet (about 2 arms length) away from anyone who is not from your household.
+        Wear a mask to keep your nose and mouth covered when in public settings.
+        Wash your hands often or use hand sanitizer.
+        Do not travel if you are sick.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Questions-->
+    <string name="que">    QUESTIONS </string>
+    <string name="que1">Do you have cough..?</string>
+    <string name="que1A">YES</string>
+    <string name="que1B">NO</string>
+    <string name="ans1">YES</string>
+
+    <string name="que2"> How long have you had the cough..?</string>
+    <string name="que2A">Less than a Week</string>
+    <string name="que2B">More than Ten Days</string>
+    <string name="ans2">More than Ten Days</string>
+
+    <string name="que3"> Have you had a fever recently..?</string>
+    <string name="que3A">YES</string>
+    <string name="que3B">NO</string>
+    <string name="ans3">YES</string>
+
+    <string name="que4">Do you feel you had to work hard to breath..??</string>
+    <string name="que4A">YES</string>
+    <string name="que4B">NO</string>
+    <string name="ans4">YES</string>
+
+    <string name="que5">Do you have chest discomfort with your cough..?</string>
+    <string name="que5A">YES</string>
+    <string name="que5B">NO</string>
+    <string name="ans5">YES</string>
+
+    <string name="que6">Do you ever feel that if you are choking...?</string>
+    <string name="que6A">YES</string>
+    <string name="que6B">NO</string>
+    <string name="ans6">YES</string>
+
+    <string name="que7">Do you cough all of the time, or only during or after activity</string>
+    <string name="que7A">All the time"</string>
+    <string name="que7B">Only after activity</string>
+    <string name="ans7">All the time</string>
+
+    <string name="que8">Have you lost the sense of smelling.?</string>
+    <string name="que8A">YES</string>
+    <string name="que8B">NO</string>
+    <string name="ans8">YES</string>
+
+    <string name="que9">Have you recently been in contact with a corona positive patient?</string>
+    <string name="que9A">YES</string>
+    <string name="que9B">NO</string>
+    <string name="ans9">YES</string>
+
+    <string name="que10">What other symptoms are you facing.??</string>
+    <string name="que10A">Bodyache OR Sore throat OR others</string>
+    <string name="que10B">None</string>
+    <string name="ans10">Bodyache OR Sore throat OR others</string>
+
+</resources>
